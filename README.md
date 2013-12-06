@@ -29,7 +29,7 @@ Run all tests with tag 'run-me' and abort previous in-progress runs.
 Required:
 - `--token <your-rainforest-token>` - you must supply your token (get it from any tests API tab)
 
-The options are:
+The options are: 
 
 - `--browsers ie8` or `--browsers ie8,chrome` - specficy the browsers you wish to run against. This overrides the test own settings. Valid browsers are ie8, ie9, chrome, firefox and safari.
 - `--tag run-me` - only run tests which have this tag (recommended if you have lots of [test-steps](http://docs.rainforestqa.com/pages/example-test-suite.html#test_steps))!)
